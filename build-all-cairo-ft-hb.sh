@@ -2,8 +2,20 @@
 
 #
 # This script will automatically build Cairo, HarfBuzz, FreeType and their dependent libraries.
-# It was created based on cairo-windows from GitHub -- Jeff Preshing, thank him a lot!
+# It requires some scripts as follows:
+#
+#	build-libpng-zlib.sh
+#	build-pixman.sh
+#	build-freetype.sh
+#	build-cairo.sh
+#	build-harfbuzz.sh
+#
+# These scripts are written by Takeshi WATANABE (Fukuneko Inc.)
+# 	https://github.com/gTakes/cairo-ft-hb-auto-build
+#
+# They was created based on cairo-windows from GitHub -- Jeff Preshing, thank him a lot!
 # 	https://github.com/preshing/cairo-windows
+# 
 # 
 # Running this script should be on MSYS2 environment through "VS2015 x86 Native Tools Command Prompt".
 # 
