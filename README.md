@@ -1,5 +1,5 @@
 # Cairo-FreeType-HarfBuzz Automatically Build
-<div style="text-align:right">English | <a href="./README_JA.md">日本語</a></div>
+English | [日本語](README_JA.md)
 
 ## Overview
 This repository is some shell scripts that automatically building `Cairo`, `FreeType` and `HarfBuzz` DLLs for **Windows**.  
