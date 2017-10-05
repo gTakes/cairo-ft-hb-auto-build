@@ -1,5 +1,5 @@
 # Cairo-FreeType-HarfBuzz自動ビルド
-<div style="text-align:right"><a href="./README_EN.md">English</a> | 日本語</div>
+[English](README.md) | 日本語
 
 ## 概要
 このリポジトリは、`Cairo`、`FreeType`、`HarfBuzz`の**Windows**用DLLの自動ビルドを補助するためのシェルスクリプトです。  
